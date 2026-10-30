@@ -89,6 +89,10 @@ Data folder: `%APPDATA%\Basketball Scoreboard` (**⚙ Settings → Data → Open
 
 ## 📝 What's new
 
+**1.5.2**
+- Larger scores on the main scoreboard; three-digit scores still fit
+- Fix: thin lines from a previous digit no longer stay on the controller at 125% or 150% display scaling
+
 **1.5.1**
 - New quit dialog showing the score, period and clock
 - Larger status bar on the controller; better fit on short laptop screens
