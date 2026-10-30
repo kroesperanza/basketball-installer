@@ -89,6 +89,9 @@ Data folder: `%APPDATA%\Basketball Scoreboard` (**⚙ Settings → Data → Open
 
 ## 📝 What's new
 
+**1.5.3**
+- **2nd screen** checkbox on the Show Shot Clock bar shows the shot clock on the same screen as the scoreboard, for checking with only two screens
+
 **1.5.2**
 - Larger scores on the main scoreboard; three-digit scores still fit
 - Fix: thin lines from a previous digit no longer stay on the controller at 125% or 150% display scaling
